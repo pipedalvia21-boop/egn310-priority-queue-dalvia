@@ -1,0 +1,12 @@
+1 102 Payroll server down
+1 104 Email outage affecting the whole third floor
+1 108 Point of sale terminal down at the front desk
+1 111 Backup job failed two nights running
+2 101 Printer offline in Lab B
+2 105 VPN disconnects every ten minutes
+2 107 Shared drive not mapping on three machines
+2 110 Conference room projector will not connect
+3 103 New laptop setup for new hire
+3 106 Request second monitor
+3 109 Install Visio on a design workstation
+3 112 Password reset for a returning employee

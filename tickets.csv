@@ -1,0 +1,13 @@
+priority,number,description
+2,101,Printer offline in Lab B
+1,102,Payroll server down
+3,103,New laptop setup for new hire
+1,104,Email outage affecting the whole third floor
+2,105,VPN disconnects every ten minutes
+3,106,Request second monitor
+2,107,Shared drive not mapping on three machines
+1,108,Point of sale terminal down at the front desk
+3,109,Install Visio on a design workstation
+2,110,Conference room projector will not connect
+1,111,Backup job failed two nights running
+3,112,Password reset for a returning employee

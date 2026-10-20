@@ -1,7 +1,7 @@
 # AI Log: Assignment 8.1
 
 Tool: Claude (Anthropic), claude.ai, 2026-10-20.
-AI was used for the code only, as permitted. COMPARISON.md was not written with AI.
+AI was used for the code only, as permitted. COMPARISON.md is my own text: Claude declined to write it, gave me guiding questions (what heappush does, what sort() works on) and checked my draft for technical accuracy without rewriting it.
 
 ## Prompts
 
@@ -14,6 +14,12 @@ AI was used for the code only, as permitted. COMPARISON.md was not written with 
    - Claude wrote ticket_queue.py, sorted_version.py and test_ticket_queue.py.
 5. Attached tickets.csv from the starter package.
    - Claude ran ticket_queue.py on it to produce output.txt and confirmed sorted_version.py matches.
+6. "hacelo vos" (asked Claude to write COMPARISON.md) and "dame una idea de como lo harias vos"
+   - Claude declined to write it and gave five guiding questions instead.
+7. Pasted my own COMPARISON.md draft.
+   - Claude flagged one ambiguous sentence, suggested a concrete swap count, and noted the length. I submitted my text as written.
+8. "ya te di el texto, el resto hacelo vos"
+   - Claude committed my COMPARISON.md and this log.
 
 ## What I checked myself
 

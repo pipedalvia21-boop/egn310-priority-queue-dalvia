@@ -12,6 +12,8 @@ AI was used for the code only, as permitted. COMPARISON.md was not written with 
    - Claude pushed the repository to GitHub.
 4. Pasted the full Assignment 8.1 instructions (help desk ticket queue).
    - Claude wrote ticket_queue.py, sorted_version.py and test_ticket_queue.py.
+5. Attached tickets.csv from the starter package.
+   - Claude ran ticket_queue.py on it to produce output.txt and confirmed sorted_version.py matches.
 
 ## What I checked myself
 
